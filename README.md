@@ -10,10 +10,7 @@ that prints greets the user in different languages and outputs the text in diffe
 We will display use Gradle to build the application, manage resources and manage dependencies.
 
 ### 1. Download the repository
-
-```shell script
-git clone https://github.com/loose-sef/gradle-hello-world-starter.git
-```
+git clone the app
 
 #### 1.1 Build the application
 
